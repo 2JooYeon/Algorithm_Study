@@ -1,4 +1,4 @@
-# ALGO
+# Algorithm_Study
 
 
 언어 : PYTHON
