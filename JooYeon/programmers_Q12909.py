@@ -1,4 +1,5 @@
 def solution(s):
+
     answer = True
     temp = []
     for element in s:
