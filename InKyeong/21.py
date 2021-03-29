@@ -21,6 +21,5 @@ def solution(triangle):
             else:
                 d[i][j] = max(d[i - 1][j - 1], d[i - 1][j]) + triangle[i][j]
 
-            answer = max(answer, d[i][j])
-
+    answer = max(d[-1])
     return answer
