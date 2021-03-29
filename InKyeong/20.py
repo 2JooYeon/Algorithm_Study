@@ -1,6 +1,5 @@
 
 x = int(input())
-
 d = [0] * 30001
 
 for i in range(2, x+1) :
