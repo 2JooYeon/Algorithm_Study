@@ -25,7 +25,7 @@ data = list(map(int, input().split()))
 
 data.sort()
 first = data[N-1] # 가장 큰 수
-second = data[N-2] # 두번째로 큰 수
+second = data[N-2] # 두번째 큰 수
 
 # 가장 큰 수가 더해지는 횟수
 count = int(M / (K+1)) * K
