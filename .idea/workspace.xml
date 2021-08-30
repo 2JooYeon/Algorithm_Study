@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3deedfb5-fbc9-49e2-abdc-481194b044cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/InKyeong/2021하반기/dynamicprogramming/210731_프로그래머스_Q42898_등굣.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -179,6 +178,8 @@
       <workItem from="1627476561685" duration="3298000" />
       <workItem from="1627480201787" duration="4000" />
       <workItem from="1627714871782" duration="83000" />
+      <workItem from="1627831353066" duration="1042000" />
+      <workItem from="1628055814324" duration="1111000" />
     </task>
     <servers />
   </component>
