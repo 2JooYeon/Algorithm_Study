@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3deedfb5-fbc9-49e2-abdc-481194b044cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/InKyeong/2021하반기/210901_프로그래머스_Q67256_키패드 누르기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InKyeong/2021하반기/dfs_bfs/210910_백준_Q1009_분산처리.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,6 +183,8 @@
       <workItem from="1628055814324" duration="1111000" />
       <workItem from="1630327751049" duration="250000" />
       <workItem from="1630501302025" duration="1313000" />
+      <workItem from="1630680694964" duration="632000" />
+      <workItem from="1631456412335" duration="413000" />
     </task>
     <servers />
   </component>
