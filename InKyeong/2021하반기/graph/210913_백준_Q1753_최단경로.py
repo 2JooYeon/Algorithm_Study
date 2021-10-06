@@ -1,4 +1,6 @@
 import heapq
+import sys
+input = sys.stdin.readline
 v, e = map(int, input().split())
 k = int(input())
 
@@ -25,7 +27,7 @@ def dijkstra(graph, start) :
             if distance < distances[adj][0] :
                 distances[adj] = [distance, current_vertex]
                 heapq.heappush(queue, [distance, adj])
-
+    print(distances)
     for i in range(1, len(graph) + 1):
         if distances[i][0] == float('inf'):
             print('INF')
