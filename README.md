@@ -1,8 +1,6 @@
 # :computer: 2021 하반기 알고리즘 스터디
-> 배인경, 이주연, 전혜지
+> 배인경, 이주연, ~~전혜지~~
 > 성공적인 취뽀 및 실력 향상을 위하여
-
-:open_file_folder: [Team 노션 링크](https://www.notion.so/About-STUDY-ab8b8cf607754a48aa7d7510de0d6370)
 
 ## :sparkles: Goals
 ### 1. 프로그래머스 나머지 유형 전체 학습 (~8월 첫째 주)
