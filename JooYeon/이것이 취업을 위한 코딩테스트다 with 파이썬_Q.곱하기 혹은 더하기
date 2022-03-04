@@ -1,0 +1,11 @@
+import sys
+input = sys.stdin.readline
+
+numbers = list(map(int, list(input().rstrip())))
+answer = numbers[0]
+for i in range(1, len(numbers)):
+    if answer<2 or numbers[i]<2:
+        answer *= numbers[i]
+    else:
+        answer += numbers[i]
+print(answer)
