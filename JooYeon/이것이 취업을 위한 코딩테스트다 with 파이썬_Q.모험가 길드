@@ -1,0 +1,14 @@
+import sys
+input = sys.stdin.readline
+
+n = int(input())
+horror = list(map(int, input().split()))
+horror.sort()
+group = 0
+temp = []
+for h in horror:
+    temp.append(h)
+    if len(temp)>= h:
+        group += 1
+        temp = []
+print(group)
