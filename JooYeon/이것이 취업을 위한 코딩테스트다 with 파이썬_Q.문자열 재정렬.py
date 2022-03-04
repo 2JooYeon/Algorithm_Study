@@ -3,12 +3,14 @@ input = sys.stdin.readline
 
 s = list(input().rstrip())
 char = []
-num = []
+num = 0
 for c in s:
     if c.isalpha():
         char.append(c)
     else:
-        num.append(int(c))
+        num+=int(c)
 char.sort()
-num = sum(num)
-print(''.join(char)+str(num))
+if num:
+    print(''.join(char)+str(num))
+else:
+    print(''.join(char))
